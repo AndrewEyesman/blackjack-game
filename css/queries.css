@@ -1,0 +1,23 @@
+@media screen and (max-height: 650px) {
+
+    .table {
+        transform: scale(0.6) translate(-80%, -80%);
+    }
+
+}
+
+@media screen and (max-width: 800px) {
+
+    .table {
+        transform: scale(0.6) translate(-80%, -80%);
+    }
+
+}
+
+@media screen and (max-width: 500px) {
+
+    .table {
+        transform: scale(0.45) translate(-110%, -110%);
+    }
+
+}
